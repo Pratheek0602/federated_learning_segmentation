@@ -12,7 +12,6 @@ This implementation uses a file-based communication approach for federated learn
 - `file_based_client.py`: Client implementation that trains models on local data and contributes to the global model
 - `fed_detect.py`: Script for running inference/detection using the trained federated model
 - `config_detect.py`: Configuration for the detection phase
-- `README_detect.md`: Detailed instructions for the detection phase
 
 ## File-Based Communication
 
